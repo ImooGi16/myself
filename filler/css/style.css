@@ -1,0 +1,15 @@
+body{
+    position: relative;
+    background: #f0f0f0;
+    font-family: 'roboto', sans-serif;
+    background-image: url('img\elden-ring-new-header-mobile.jpg');
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.bgimg{
+    text-align: center;
+}
